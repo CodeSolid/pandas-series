@@ -8,7 +8,7 @@ Goals:
 
 ## Earlier "outline"
 
-* Pandas introduction (John?)
+* Pandas introduction (John)
     * Core classes -  DataFrames and Series.
     * See next topic, I think this is easier to understand with datasets, but many authors focus on creating from dictionaries of lists, etc.
     * Using the tools
@@ -19,8 +19,6 @@ Goals:
     * https://scikit-learn.org/stable/datasets/toy_dataset.html
 
 * "Kaggle Datasets" (Full article).  On using Kaggle API to download datasets:  https://www.kaggle.com/docs/api#interacting-with-datasets
-
-* Pandas loading dataframe from various types (this has been done a lot)
 
 * Selecting data in pandas (Beginner to Expert)
     * Relation to indexing. 
@@ -33,6 +31,9 @@ Goals:
     * sklearn has tools for this too?
     * removing duplicates
 
+* Data Visualization in Pandas (Bashir) 2000-3000
+
+# Data manipulation:
 Data transformation:
     * Vectorized string methods / other string techniques
 
@@ -49,6 +50,7 @@ Data transformation:
     * Other material, see for example Pandas [Time Series / Date Functionality](https://pandas.pydata.org/docs/user_guide/timeseries.html)
 
 * [Pandas Data Formats](https://pandas.pydata.org/docs/user_guide/io.html).
+    * Pandas loading dataframe from various types (this has been done a lot)
 
 ## Other somewhat related articles:
 
